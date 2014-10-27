@@ -8,10 +8,6 @@ for module in ['camel_case','coloring','gvim','folding','key-bindings','backup',
   exec 'so' '~/.vim/.vimrc_modules/'.module.'.vim'
 endfor
  
-
-so ~/.vim/bundle/snipmate/snippets/support_functions.vim
-
-
 set tabstop=6
 set smarttab
 set laststatus=2
