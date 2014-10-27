@@ -1,8 +1,8 @@
 # Intro
 
-A highly tested and fine tuned VIM configuration.
+A lite VIM configuration (for limited resource/server machines).
 
-[![Build Status](https://travis-ci.org/narkisr/.vim.png)](https://travis-ci.org/narkisr/.vim)
+[![Build Status](https://travis-ci.org/narkisr/vim-lite.png)](https://travis-ci.org/narkisr/vim-lite)
 
 # Copyright and license
 
